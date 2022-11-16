@@ -74,7 +74,7 @@ func main() {
 		"\n 4\n Block3\n   Name:Srajan Saxena\n    Email:srajansaxena54356@gmail.com\n    Phno:9461853225\n    Course:BA\n",
 		"\n 5\n Block4\n   Name:Anurag Gupta\n    Email:Beinganurag23@gmail.com\n    Phno:9451223856\n    Course:BCA\n",
 		"\n 6\n Block5\n   Name:Kushagra Dixit\n    Email:Kushagradixit018@gmail.com\n    Phno:6387022930\n   Course:BCA\n",
-                "\n 5\n Block6\n   Name:Shivansh Srivastav\n   Email:creamwalabiscuit@gmail.com\n  Phno.:9305255488\n   Course:BCA"}
+		"\n 5\n Block6\n   Name:Shivansh Srivastav\n   Email:creamwalabiscuit@gmail.com\n  Phno.:9305255488\n   Course:BCA"}
 
 	prev := []byte{}
 
@@ -89,3 +89,5 @@ func main() {
 		prev = b.Hash
 	}
 }
+
+// CC: Priyanshu Batham
